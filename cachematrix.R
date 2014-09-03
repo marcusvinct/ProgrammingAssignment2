@@ -17,6 +17,7 @@
 
 ## makeCacheMatrix sets up an special Matrix object, which contains 2 variables
 ## getters and setters functions for each one of them.
+##
 ## By default, the Matrix is initialized empty. Another matrix can be passed as parameter.
 ## The inverse of a Matrix can only be calculated for a squared matrix, which means it has to have the same number of rows and columns.
 ##
